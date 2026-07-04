@@ -1,0 +1,8 @@
+jupyterlab
+ipykernel
+
+numpy==2.5.0
+pandas==3.0.3
+scikit-learn==1.9.0
+openpyxl==3.1.5
+matplotlib==3.10.0
